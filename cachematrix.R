@@ -35,7 +35,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-
 ## a function to compute the inverse of the special "matrix" object and cache the result
 cacheSolve <- function(matObj) {
   # Check if the inverse is already cached
